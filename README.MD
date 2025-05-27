@@ -97,3 +97,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ---
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Adaptado por [Lu M Urbano] (https://github.com/lumurbano) 
